@@ -1,0 +1,13 @@
+* {
+    margin: 0 auto;
+    list-style-type: none;
+}
+
+.clearfix:after,
+.clearfix:before {
+    display: table;
+    content: '';
+}
+.clearfix:after {
+    clear: both;
+}
