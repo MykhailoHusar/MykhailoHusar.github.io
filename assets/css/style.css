@@ -11,3 +11,6 @@
 .clearfix:after {
     clear: both;
 }
+.main-logo {
+    background-color: black;
+}
